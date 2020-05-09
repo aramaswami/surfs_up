@@ -9,9 +9,7 @@ I created dataframes and extracted precipitation and temperature data for June, 
 ### Part_2: Identify key statistical data in December across all stations and years using the describe() function.  
 As for Part_1, I created dataframes and extracted precipitation and temperature data for June, across all years for which data is available. The describe() table is included here for reference:
 
-### Part_3:  
-
-Analysis:  
+### Part_3:Analysis  
 
 The data for June shows that precipitation averages around 0.024 with a max recorded level of 0.89. In December, the averages for precipitation was 0.11 and a max of 4.94. Temperatures averages around 74.9 in June and 71 in December.  
 
