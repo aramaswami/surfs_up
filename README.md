@@ -5,10 +5,11 @@ An investor has requested an analysis of precipitation and temperature data for 
 ### Part_1: Identify key statistical data in June across all of the stations and years using the describe() function.  
 
 I created dataframes and extracted precipitation and temperature data for June, across all years for which data is available. The describe() table is included here for reference:  
-https://github.com/aramaswami/surfs_up/blob/master/Dec_describe_stats.png
+https://github.com/aramaswami/surfs_up/blob/master/Jun_describe_stats.png
 
 ### Part_2: Identify key statistical data in December across all stations and years using the describe() function.  
-As for Part_1, I created dataframes and extracted precipitation and temperature data for June, across all years for which data is available. The describe() table is included here for reference:
+As for Part_1, I created dataframes and extracted precipitation and temperature data for June, across all years for which data is available. The describe() table is included here for reference:  
+https://github.com/aramaswami/surfs_up/blob/master/Dec_describe_stats.png
 
 ### Part_3: Analysis  
 
